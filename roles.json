@@ -1,8 +1,21 @@
 {
 	"messages": [
 		{
-			"title": "Click on the corresponding reaction to add or remove a role.\n\n__**Classes**__",
-			"color": "#00ff00",
+			"title": "Click on the corresponding reaction to add or remove a role.\n\n__**Clans**__",
+			"color": "#277ecd",
+			"roles": [
+				{
+					"comment": "Renown",
+					"id": "730650904486740079",
+					"emoji": "<:Renown:727314075075346585>",
+					"desc": ""
+				}
+				
+			]
+		},
+		{
+			"title": "**__Classes__**",
+			"color": "#ffffff",
 			"roles": [
 				{
 					"comment": "Bouncer",
@@ -68,12 +81,6 @@
 					"comment": "Techter",
 					"id": "730643966776573972",
 					"emoji": "<:Techter:730634012267380777>",
-					"desc": ""
-				},
-				{
-					"comment": "Renown",
-					"id": "730650904486740079",
-					"emoji": "<:Renown:727314075075346585>",
 					"desc": ""
 				}
 			]
