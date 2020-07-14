@@ -1,7 +1,7 @@
 {
 	"messages": [
 		{
-				"title": "**__Recruitment__**",
+				"title": "Click on the corresponding reaction to add or remove a role.**__Recruitment__**",
 			"color": "#ff0099",
 			"roles": [
 				{
@@ -27,8 +27,9 @@
 					"id": "732466862490910841",
 					"emoji": "4⃣",
 					"desc": ""
-				}]
-			
+				}
+			]
+		},
 			{
 				"title": "**__Classes__**",
 			"color": "#f1ca07",
