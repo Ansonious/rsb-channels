@@ -1,0 +1,18 @@
+{
+  "WebhookUsername": "Rules",
+  "WebhookAvatarUrl": "https://i.imgur.com/S7JEqB9.png",
+  "messages": [
+    {
+      "title": "By clicking the reaction on this message you agree with all the rules above",
+      "roles": [
+        {
+          "comment": "ARKS",
+          "id": "729561764311859207",
+          "emoji": "<:ARKS:732401715055296522>",
+          "mode": "add",
+          "desc": "Adds ARKS role to user"
+        }
+      ]
+    }
+  ]
+}
