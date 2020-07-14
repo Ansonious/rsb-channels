@@ -1,6 +1,34 @@
 {
 	"messages": [
 		{
+				"title": "**__Recruitment__**",
+			"color": "#ff0099",
+			"roles": [
+				{
+					"comment": "VHAQ",
+					"id": "732466815350997042",
+					"emoji": "1⃣",
+					"desc": ""
+				},
+				{
+					"comment": "SHAQ",
+					"id": "732466766340423732",
+					"emoji": "2⃣",
+					"desc": ""
+				},
+				{
+					"comment": "Ultimate",
+					"id": "732466717766189156",
+					"emoji": "3⃣",
+					"desc": ""
+				},
+				{
+					"comment": "Urgent",
+					"id": "732466862490910841",
+					"emoji": "4⃣",
+					"desc": ""
+				}
+			]
 			"title": "**__Classes__**",
 			"color": "#f1ca07",
 			"roles": [
