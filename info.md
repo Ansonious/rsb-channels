@@ -41,9 +41,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 Some of the roles are there for notification purposes only. For example: `@`, `@`, `@`
 
-You can join and leave some of those roles at any time by adding reactions in <#729561764940742700, which will toggle the role.
-If the reaction roles do not work, you can type `/rank join <rolename>` and `/rank leave <rolename>` in <#729561766874316863>.
-You can type `/rank list` to see all the roles you can join and leave with the backup bot.
+You can join and leave some of those roles at any time by adding reactions in <#729561764940742700>, which will toggle the role.
 
 ---
 
