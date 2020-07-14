@@ -1,7 +1,9 @@
 {
 	"messages": [
 		{
-				"title": "Click on the corresponding reaction to add or remove a role.**__Recruitment__**",
+				"title": "Click on the corresponding reaction to add or remove a role.
+			
+			**__Recruitment__**",
 			"color": "#ff0099",
 			"roles": [
 				{
