@@ -4,15 +4,6 @@
 			"title": "Click on the corresponding reaction to add or remove a role.\n\n__**Clans**__",
 			"color": "#277ecd",
 			"roles": [
-				{
-					"comment": "Renown",
-					"id": "730650904486740079",
-					"emoji": "<:Renown:727314075075346585>",
-					"desc": ""
-				}
-				
-			]
-		},
 		{
 			"title": "**__Classes__**",
 			"color": "#f1ca07",
