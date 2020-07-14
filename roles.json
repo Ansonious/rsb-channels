@@ -1,10 +1,6 @@
 {
 	"messages": [
 		{
-			"title": "Click on the corresponding reaction to add or remove a role.\n\n__**Clans**__",
-			"color": "#277ecd",
-			"roles": [
-		{
 			"title": "**__Classes__**",
 			"color": "#f1ca07",
 			"roles": [
