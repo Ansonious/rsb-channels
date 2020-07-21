@@ -41,9 +41,9 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 `Community Manager`: In charge of Public Relations.
 
-Clan & Clan positions: PM any of out moderators to apply for these roles.
+`Clan & Ranks`: PM any of out moderators to apply for these roles.
 
-Some of the roles are there for notification purposes only. For example: `@`, `@`, `@`
+Some of the roles are there for notification purposes only. For example: `@Patch`, `@`, `@`
 
 You can join and leave some of those roles at any time by adding reactions in <#729561764940742700>, which will toggle the role.
 
