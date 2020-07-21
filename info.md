@@ -39,9 +39,14 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 `Moderator / Server Staff`: The Moderators and administrative staff of the server.
 
+`Community Manager`: In charge of Public Relations.
+
+Clan & Clan positions: PM any of out moderators to apply for these roles.
+
 Some of the roles are there for notification purposes only. For example: `@`, `@`, `@`
 
 You can join and leave some of those roles at any time by adding reactions in <#729561764940742700>, which will toggle the role.
+
 
 ---
 
@@ -50,6 +55,7 @@ You can join and leave some of those roles at any time by adding reactions in <#
 There are two primary ways that you can do that:
 
 1.) Give them the permanent invite link yourself: https://discord.gg/ePSZqA4
+
 2.) Generate your own (temporary) link by hovering your mouse over <#729561764940742697> and clicking on the little box
 
 ---
