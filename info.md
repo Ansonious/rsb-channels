@@ -17,7 +17,7 @@ Note that **hosting a squad doesn't mean that you need to lead it or that you ne
 
 3. Once there is enough of you to start a group, simply join an open channel (*avoid joining a channel before the host has advertised it in <#729561766874316860>*) or create a temporary channel and set up in there.
 
-4. If you would like to stop getting notifications, head back to <#488157674215702528> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
+4. If you would like to stop getting notifications, head back to <#729561764940742700> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
 
 ---
 
