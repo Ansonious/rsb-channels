@@ -41,6 +41,8 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 `Community Manager`: In charge of Public Relations.
 
+`Mentor`: Guides who can help with general game-related and class related questions.
+
 `Clan & Ranks`: PM any of our moderators to apply for these roles.
 
 Some of the roles are there for notification purposes only. For example: `@Patch`
