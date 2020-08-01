@@ -1,7 +1,7 @@
 :bangbang: **About** :bangbang:
 
-We are a major alliance that **==redacted==**. This involves providing structured guidance. We also host channels for a variety of other games that change with demand. Regardless of experience, everyone should be able to find a group.
-Enjoy and have fun!
+We are a Multi-Alliance community that provides a space for all players to chat about the game, theorycraft, share media and group up for all content. 
+Come join us at Cafe B-17!
 
 ---
 
@@ -43,7 +43,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 `Clan & Ranks`: PM any of our moderators to apply for these roles.
 
-Some of the roles are there for notification purposes only. For example: `@Patch`, `@`, `@`
+Some of the roles are there for notification purposes only. For example: `@Patch`
 
 You can join and leave some of those roles at any time by adding reactions in <#729561764940742700>, which will toggle the role.
 
