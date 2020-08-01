@@ -46,6 +46,8 @@ Read more and apply here:
 https://docs.google.com/document/d/1YogBaWyzetrCqvhacz8CoTaIvnK5BTPAmaPUyiztqjM/edit?usp=sharing
 
 `Clan & Ranks`: PM any of our moderators to apply for these roles.
+Register and Apply your clan here:
+https://docs.google.com/forms/d/e/1FAIpQLSdsUXufv-xh7TFiZ-bJuykyG8g5fRthPRNdt8upY1Pkb69Yjw/viewform
 
 Some of the roles are there for notification purposes only. For example: `@Patch`
 
