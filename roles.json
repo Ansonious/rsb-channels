@@ -10,31 +10,31 @@
 					"comment": "VHAQ",
 					"id": "732466815350997042",
 					"emoji": "1⃣",
-					"desc": ""
+					"desc": "Very Hard Advanced Quest"
 				},
 				{
 					"comment": "SHAQ",
 					"id": "732466766340423732",
 					"emoji": "2⃣",
-					"desc": ""
+					"desc": "Super Hard Advanced Quest"
 				},
 				{
 					"comment": "Ultimate",
 					"id": "732466717766189156",
 					"emoji": "3⃣",
-					"desc": ""
+					"desc": "Ultimate"
 				},
 				{
 					"comment": "Urgent",
 					"id": "732466862490910841",
 					"emoji": "4⃣",
-					"desc": ""
+					"desc": "Urgent Quests"
 				},
 		   		{
 					"comment": "Trigger",
 					"id": "734808854411477066",
 					"emoji": "🇹",
-					"desc": ""
+					"desc": "Trigger Quests"
 				}
 			]
 		},
@@ -115,6 +115,18 @@
 					"desc": ""
 				}
 			]
-		}
+		},
+				{
+				"title": "**Miscellaneous**",
+			"color": "##2cc419",
+			"roles": [
+				{
+						"comment": "Patch",
+					"id": "735014594736685097",
+					"emoji": "🇵",
+					"desc": "Patch notes, for notifications"
+				}
+				]
+		},
 	]
 }
