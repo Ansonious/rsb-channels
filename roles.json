@@ -118,7 +118,7 @@
 		},
 				{
 				"title": "**Miscellaneous**",
-			"color": "##2cc419",
+			"color": "#2cc419",
 			"roles": [
 				{
 						"comment": "Patch",
@@ -126,7 +126,7 @@
 					"emoji": "🇵",
 					"desc": "Patch notes, for notifications"
 				}
-				]
+			]
 		}
 	]
 }
