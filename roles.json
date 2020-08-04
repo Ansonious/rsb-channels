@@ -139,6 +139,12 @@
 					"emoji": "🇵",
 					"desc": "Patch notes, for notifications"
 				}
+				{
+						"comment": "Movie Night",
+					"id": "729561764311859209",
+					"emoji": "🍿",
+					"desc": "Get notifications for movies"
+				}
 			]
 		}
 	]
