@@ -67,7 +67,7 @@ There are two primary ways that you can do that:
 
 ---
 
-:exclamation:  **Do you want to add your clan to the server?** :exclamation:
+:exclamation:  **Do you want to add your clan to the channels <#741181619448184904> & <#742493068652970104>?** :exclamation:
 
  Currently the only way to add your clan to <@742438281559408690> is by messaging <@83897755826683904> The channel ID for General and Recruitment chat. You can find the ID by right clicking the specified channel and selecting **"Copy ID"**
  
