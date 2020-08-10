@@ -45,7 +45,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 Read more and apply here:
 https://docs.google.com/document/d/1YogBaWyzetrCqvhacz8CoTaIvnK5BTPAmaPUyiztqjM/edit?usp=sharing
 
-`Clan & Ranks`: PM any of our moderators to apply for these roles.
+`Clan & Ranks`: PM any of our moderators to claim your Clan/rank.
 Register and Apply your clan here:
 https://docs.google.com/forms/d/e/1FAIpQLSdsUXufv-xh7TFiZ-bJuykyG8g5fRthPRNdt8upY1Pkb69Yjw/viewform
 
@@ -64,6 +64,13 @@ There are two primary ways that you can do that:
 
 2.) Generate your own (temporary) link by hovering your mouse over <#729561764940742697> and clicking on the little box
 
+
+---
+
+:exclamation:  **Do you want to add your clan to the server?** :exclamation:
+
+ Currently the only way to add your clan to <@742438281559408690> is by messaging <@83897755826683904> The channel ID for General and Recruitment chat. You can find the ID by right clicking the specified channel and selecting **"Copy ID"**
+ 
 ---
 
 :bangbang: **Consider this section now undergoing remodeling** :bangbang: 
