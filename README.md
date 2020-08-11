@@ -51,4 +51,4 @@ after filling it out, it should look something like this
 "Desc" is just a description for roles that aren't self explanatory.
 
 When adding a few lines for the role, make sure to add in a comma on the role above.
- ![adding role comma](https://cdn.discordapp.com/attachments/465059517550428173/549818678795829268/unknown.png)
+![adding role comma](https://cdn.discordapp.com/attachments/465059517550428173/549818678795829268/unknown.png)
