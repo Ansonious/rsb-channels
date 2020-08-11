@@ -42,8 +42,8 @@ after filling it out, it should look something like this
 
 "Comment" is well, a comment so that the other mods know what the role being added is.
 
-"ID" is the role itself, you can find the role id by simply saying "/roleinfo @role"
-![role id](https://cdn.discordapp.com/attachments/465059517550428173/549816465575116802/unknown.png)
+"ID" is the role itself, you can find the role id by going to server settings > Roles > Right click Role > Copy ID
+![role id](https://cdn.discordapp.com/attachments/465059517550428173/742799856665493604/unknown.png)
 
 "Emoji" is found by putting a \ before the emote. 
 [![Image from Gyazo](https://i.gyazo.com/43366b282997025f68ac5aa9de18bee3.gif)](https://gyazo.com/43366b282997025f68ac5aa9de18bee3)
