@@ -52,6 +52,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdsUXufv-xh7TFiZ-bJuykyG8g5fRthPRNdt8up
 `Normal / Geared` : For people who meet our requirements in <#729561764940742701>
 Register and Apply here:
 https://docs.google.com/forms/d/e/1FAIpQLSetlyt7lhaQZKT87px5eDAkZjOhswmziAiu-cqSCv3IGCHtMg/viewform
+Requirements for Geared are having Normal role, and 2 Vouches. 1 for Affixes and 1 for Skill.
 
 Some of the roles are there for notification purposes only. For example: `@Patch`
 
