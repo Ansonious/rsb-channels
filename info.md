@@ -70,7 +70,15 @@ There are two primary ways that you can do that:
 :exclamation:  **Do you want to add your clan to the channels <#741181619448184904> & <#742493068652970104>?** :exclamation:
 
  Currently the only way to add your clan to <@742438281559408690> is by messaging <@83897755826683904> The channel ID for General and Recruitment chat. You can find the ID by right clicking the specified channel and selecting **"Copy ID"**
- 
+
+---
+
+:exclamation: **Do you want to get Normal/Geared Roles?** :exclamation:
+
+Register and apply for Normal/Geared roles here:
+https://docs.google.com/forms/d/e/1FAIpQLSetlyt7lhaQZKT87px5eDAkZjOhswmziAiu-cqSCv3IGCHtMg/viewform
+
+
 ---
 
 :bangbang: **Consider this section now undergoing remodeling** :bangbang: 
