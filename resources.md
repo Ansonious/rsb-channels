@@ -9,6 +9,8 @@
 
 ![General How-tos](https://i.imgur.com/rA0kFlV.png)
 
+--
+
 :white_small_sqaure: **[Introduction to Discord](https://streamable.com/8t7v6c)**
 :white_small_square: **[Create a Multiparty](https://streamable.com/8656y6)**
 :white_small_sqare: **[UQ Considerations](https://docs.google.com/document/d/1vIyh_0OuL8OG3m0DsjxBSjGIkRRETXIJgmRml6THXUc/edit?usp=sharing)**
@@ -20,6 +22,8 @@
 ---
 
 ![Class Specific Guides](https://i.imgur.com/Kg8g9HP.png)
+
+---
 
 :white_small_square: **[Bouncer](https://goo.gl/S184Bz):** 
 
