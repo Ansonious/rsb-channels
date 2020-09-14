@@ -9,11 +9,11 @@
 
 ![General How-tos](https://i.imgur.com/rA0kFlV.png)
 
---
+---
 
 :white_small_sqaure: **[Introduction to Discord](https://streamable.com/8t7v6c)**
 :white_small_square: **[Create a Multiparty](https://streamable.com/8656y6)**
-:white_small_sqare: **[UQ Considerations](https://docs.google.com/document/d/1vIyh_0OuL8OG3m0DsjxBSjGIkRRETXIJgmRml6THXUc/edit?usp=sharing)**
+:white_small_square: **[UQ Considerations](https://docs.google.com/document/d/1vIyh_0OuL8OG3m0DsjxBSjGIkRRETXIJgmRml6THXUc/edit?usp=sharing)**
 :white_small_square: **[Join a Multiparty](https://streamable.com/m1c108)**
 :white_small_square: **[Discord Recruitment](https://streamable.com/r3w58i)**
 :white_small_square: **[Making Meseta via Questing](https://streamable.com/g8y1yn)**
