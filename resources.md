@@ -1,4 +1,4 @@
-![Important Info](https://i.imgur.com/Lgk3aJv.png)
+![Important Info](https://i.imgur.com/JJi8MZ1.png
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-![General How-tos](https://i.imgur.com/rA0kFlV.png)
+![General How-tos](https://i.imgur.com/qJwEt92.png
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-![Class Specific Guides](https://i.imgur.com/Kg8g9HP.png)
+![Class Specific Guides](https://i.imgur.com/Q5qlJ1v.png)
 
 ---
 **__Bouncer__**
@@ -47,7 +47,7 @@
 :white_small_square:**[Partisan](https://docs.google.com/document/d/1efuuduqS_g22LzTypSui8ArHwjcCyMpZ11xHLB2VFMk/edit)**
 :white_small_square:**[Sword](https://docs.google.com/document/d/1eazJ_xHTLzFge9KHNIoCcfnTg5rUylIDdBwJg6SJm3g/edit)**
 
-:**__Ranger__**
+**__Ranger__**
 :white_small_square:**[General](https://somethingaboutlagging.wordpress.com/)**
 
 **__Summoner__**
@@ -57,3 +57,6 @@
 :white_small_square:**[General](https://docs.google.com/document/d/11N09BzAVCBpoOL9EIM5UxLZP4Ys7yO0XcdsecU0kTck/edit#)**
 
 Refer to Mentors for questions!
+
+
+
