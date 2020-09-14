@@ -3,7 +3,7 @@
 ---
 
 :white_small_square: **[Game Wiki](https://pso2na.arks-visiphone.com/wiki/Main_Page)**  for looking up specific drops/items in the game.
-:white_small_square: **[Affixing Wiki](https://docs.google.com/document/d/11KZLdZlywBGVI95W2yOp_RDLr-9x9svdFvNUN2nLanM/edit#heading=h.6w75voe101uv):** for various augments and other useful information.
+:white_small_square: **[Affixing Wiki](https://docs.google.com/document/d/11KZLdZlywBGVI95W2yOp_RDLr-9x9svdFvNUN2nLanM/edit#heading=h.6w75voe101uv)** for various augments and other useful information.
 
 ---
 
