@@ -11,7 +11,7 @@
 
 ---
 
-:white_small_sqaure: **[Introduction to Discord](https://streamable.com/8t7v6c)**
+:white_small_square: **[Introduction to Discord](https://streamable.com/8t7v6c)**
 :white_small_square: **[Create a Multiparty](https://streamable.com/8656y6)**
 :white_small_square: **[UQ Considerations](https://docs.google.com/document/d/1vIyh_0OuL8OG3m0DsjxBSjGIkRRETXIJgmRml6THXUc/edit?usp=sharing)**
 :white_small_square: **[Join a Multiparty](https://streamable.com/m1c108)**
@@ -25,7 +25,7 @@
 
 ---
 **__Bouncer__**
-:white_small_square:**[General](https://goo.gl/S184Bz):** 
+:white_small_square:**[General](https://goo.gl/S184Bz)** 
 
 **__Braver__**
 :white_small_square:**[General](https://docs.google.com/document/d/1rM9GvtWBB0mG9Q1-9ZsDQlTN0RqIn7SzTDjxNjgy4ls)**  
