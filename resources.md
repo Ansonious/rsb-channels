@@ -46,8 +46,14 @@
 :white_small_square:**[General](https://www.reddit.com/r/PSO2/comments/g1tcmm/hunterfighter_na_build_guide/)**
 :white_small_square:**[Partisan](https://docs.google.com/document/d/1efuuduqS_g22LzTypSui8ArHwjcCyMpZ11xHLB2VFMk/edit)**
 :white_small_square:**[Sword](https://docs.google.com/document/d/1eazJ_xHTLzFge9KHNIoCcfnTg5rUylIDdBwJg6SJm3g/edit)**
-:white_small_square:**[Ranger](https://somethingaboutlagging.wordpress.com/)**
-:white_small_square:**[Summoner](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ11NGH9_PhTqgqanYWyHWoyOmuyawLxxOTLgcrDsMtqyn9PCo5oBL5bEGYr0icfOyMTqBQjzhPCRQi/pubhtml#)**
-:white_small_square:**[Techter](https://docs.google.com/document/d/11N09BzAVCBpoOL9EIM5UxLZP4Ys7yO0XcdsecU0kTck/edit#)**
+
+:**__Ranger__**
+:white_small_square:**[General](https://somethingaboutlagging.wordpress.com/)**
+
+**__Summoner__**
+:white_small_square:**[General](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ11NGH9_PhTqgqanYWyHWoyOmuyawLxxOTLgcrDsMtqyn9PCo5oBL5bEGYr0icfOyMTqBQjzhPCRQi/pubhtml#)**
+
+**__Techter__**
+:white_small_square:**[General](https://docs.google.com/document/d/11N09BzAVCBpoOL9EIM5UxLZP4Ys7yO0XcdsecU0kTck/edit#)**
 
 Refer to Mentors for questions!
