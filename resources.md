@@ -1,4 +1,4 @@
-![Important Info](https://i.imgur.com/JJi8MZ1.png
+![Important Info](https://i.imgur.com/JJi8MZ1.png)
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-![General How-tos](https://i.imgur.com/qJwEt92.png
+![General How-tos](https://i.imgur.com/qJwEt92.png)
 
 ---
 
