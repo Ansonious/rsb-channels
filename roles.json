@@ -56,16 +56,10 @@
 					"desc": "Time Attack"
 				},
 				{
-					"comment": "Normal",
-					"id": "753954239402999828",
+					"comment": "LQ",
+					"id": "756399142757990470",
 					"emoji": "9️⃣",
-					"desc": "Normal Requirement for Ult"
-				},
-		    		{
-					"comment": "Geared",
-					"id": "753954896016965723",
-					"emoji": "🔟",
-					"desc": "Geared Requirement for Ult"
+					"desc": "Limited Quest"
 				} 
 			]
 		},
