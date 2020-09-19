@@ -5,7 +5,7 @@ Two changes. There will be a branch group being made specifically for Geared. Th
 
 **How do these new changes affect the main group?**
 
-The new changes will NOT affect the main group drastically, It will still be the same place where you can still socialize and form parties with people within the group.
+The new changes will NOT affect the main group drastically, It will still be the same place where you can still socialize and form parties with people within the group and group chat.
 
 
 **Does this mean I can’t play with the people I used to before?**
@@ -44,7 +44,7 @@ Due to recent events with people being unhappy how disorganized urgent quests/ul
 
 **How will forming parties work now?**
 
-Parties will be formed in discord for better organization and less confusion with the use of Matoi-Chan
+Planned Events such as Triggers or Scheduled Uq's will be formed in discord for better organization and less confusion with the use of Matoi-Chan. Impromptu runs are still allowed to be called in the group chat, however it is advised to also use the discord as the group only has a limit of 100 people.
 
 **Who is Matoi-Chan?**
 
@@ -52,24 +52,18 @@ A discord bot in our server, she’ll primarily be used for making parties but c
 
 ---
 
-**How do I get into Normal?**
-
-Check the #resources and #info channel for more information.
-Apply through a form in #info. You must meet the minimal affixing requirements
+**How do I get into -wip-?**
 
 
-**How do I get into Geared?**
-
-
-Geared is achieved by getting 2 vouches by a Mentor in terms of affixing and skill
+-wip- is achieved by getting 2 vouches by a Mentor in terms of affixing and skill
 
 
 **How do I get into Mentor?**
 
-Mentors are attained by 2 vouches, 1 from a mentor, 1 from a mod. Mentors have a much more strict requirements due to the fact that they are teachers for PSO2
+Mentors are attained by 2 vouches, 1 from a Mentor, 1 from a Moderator. Mentors have a much more strict requirements due to the fact that they are teachers for PSO2
 
 
-**Affixing is too hard, Normal requirements are too high a barrier for me!**
+**Affixing is too hard, these requirements are too high a barrier for me!**
 
 
 Go to a mentor for lessons! They have that very role because they want to help you.
