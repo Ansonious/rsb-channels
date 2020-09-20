@@ -9,16 +9,22 @@ Come join us at Cafe B-17!
 
 Follow these steps to join squads ASAP!
 
+**Hosting**
+
+1. Head to <#729561766874316860> use matoi bot and @mention one (or more) of the recruiting roles
+For example: `>host ["Name of quest"] [number of people you need] [difficulty] [time]"`
+You, the host, can cancel the party by clicking on the :negative_squared_cross_mark: reaction.
+
+2. Once there is enough of you to start a group, you can join an open channel (*avoid joining a channel before the host has advertised it in <#729561766874316860>*) or create a temporary channel and set up in there.
+
+**Joining**
 1. *(optional)* Head to <#729561764940742700> and join one of the currently available recruiting roles.
 
-2. Head to <#729561766874316860> and @mention one (or more) of the recruiting roles, or just wait for someone else to do the same (you will get a notification when this happens).
-For example: `Hosting @Ult, need 3 more.`
-Note that **hosting a squad doesn't mean that you need to lead it or that you need any kind of experience**. Whoever invites people to the in-game lobby is the host.
-
-3. Once there is enough of you to start a group, simply join an open channel (*avoid joining a channel before the host has advertised it in <#729561766874316860>*) or create a temporary channel and set up in there.
+2. Head to <#729561766874316860> and click on the :crossed_swords: to confirm your participation.
 
 4. If you would like to stop getting notifications, head back to <#729561764940742700> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
 
+**Note** In the case of MP(Multi Party) related content such as UQ's(Urgent Quests), the parties are organized as Party A through Z. E.G. MPA will have Party ABC, MPB will have DEF. The main host(In Party A) will be responsible for clearly deciding on who are leads for BCDEF.
 ---
 
 :bangbang: **Temporary channels:** :bangbang: 
@@ -41,7 +47,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 `Community Manager`: In charge of Public Relations.
 
-`Mentor`: Guides who can help with general game-related and class related questions.
+`Mentor`: Guides who can help with general game-related and class related questions. They're also responsible for vouching people towards higher tier runs.
 Read more and apply here:
 https://docs.google.com/document/d/1YogBaWyzetrCqvhacz8CoTaIvnK5BTPAmaPUyiztqjM/edit?usp=sharing
 
@@ -49,10 +55,10 @@ https://docs.google.com/document/d/1YogBaWyzetrCqvhacz8CoTaIvnK5BTPAmaPUyiztqjM/
 Register and Apply your clan here:
 https://docs.google.com/forms/d/e/1FAIpQLSdsUXufv-xh7TFiZ-bJuykyG8g5fRthPRNdt8upY1Pkb69Yjw/viewform
 
-`Normal / Geared` : For people who meet our requirements in <#729561764940742701>
+`~~Redacted~~` : For people who meet our requirements in <#729561764940742701>
 Register and Apply here:
 https://docs.google.com/forms/d/e/1FAIpQLSetlyt7lhaQZKT87px5eDAkZjOhswmziAiu-cqSCv3IGCHtMg/viewform
-Requirements for Geared are having Normal role, and 2 Vouches. 1 for Affixes and 1 for Skill from Mentors.
+Requirements for ~~Redacted~~ are Vouches. 1 for Affixes and 1 for Skill from Mentors.
 
 Some of the roles are there for notification purposes only. For example: `@Patch`
 
