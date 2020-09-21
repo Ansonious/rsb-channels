@@ -52,10 +52,10 @@ A discord bot in our server, she’ll primarily be used for making parties but c
 
 ---
 
-**How do I get into -wip-?**
+**How do I get into Nerd?**
 
 
--wip- is achieved by getting 2 vouches by a Mentor in terms of affixing and skill
+Nerd is achieved by getting 2 vouches by a Mentor in terms of affixing and skill
 
 
 **How do I get into Mentor?**
