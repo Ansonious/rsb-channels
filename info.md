@@ -55,10 +55,10 @@ https://docs.google.com/document/d/1YogBaWyzetrCqvhacz8CoTaIvnK5BTPAmaPUyiztqjM/
 Register and Apply your clan here:
 https://docs.google.com/forms/d/e/1FAIpQLSdsUXufv-xh7TFiZ-bJuykyG8g5fRthPRNdt8upY1Pkb69Yjw/viewform
 
-`~~Redacted~~` : For people who meet our requirements in <#729561764940742701>
+`Nerd` : For people who meet our requirements in <#729561764940742701>
 Register and Apply here:
 https://docs.google.com/forms/d/e/1FAIpQLSetlyt7lhaQZKT87px5eDAkZjOhswmziAiu-cqSCv3IGCHtMg/viewform
-Requirements for ~~Redacted~~ are Vouches. 1 for Affixes and 1 for Skill from Mentors.
+Requirements for Nerd are 2 Vouches. 1 for Affixes and 1 for Skill from Mentors.
 
 Some of the roles are there for notification purposes only. For example: `@Patch`
 
