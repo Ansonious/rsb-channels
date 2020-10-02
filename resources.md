@@ -17,7 +17,7 @@
 :white_small_square: **[Join a Multiparty](https://streamable.com/m1c108)**
 :white_small_square: **[Discord Recruitment](https://streamable.com/r3w58i)**
 :white_small_square: **[Making Meseta via Questing](https://streamable.com/g8y1yn)**
-	
+:white_small_square: **[Weapon Path Upgrades](https://imgur.com/feaR497)**	
 
 ---
 
