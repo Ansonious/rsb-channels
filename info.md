@@ -24,6 +24,18 @@ You, the host, can cancel the party by clicking on the :negative_squared_cross_m
 
 4. If you would like to stop getting notifications, head back to <#729561764940742700> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
 
+Recruitment Etiquette
+
+-Discord is NOT a requirement to form MPA or other parties, its merely the choice of the host and their leads.
+
+-Always set the password to wars and have a distinct Multi Party name.
+
+-If using discord, at least host 30 to 20 minutes before the uq so that people don't panic.
+
+-When you reserve a slot, ensure you don't show up late, if you don't arrive by the time 5 minutes are left before the uq starts, the host/lead has the right to choose someone else to replace you.
+
+-Communicate! Don't just stand around and wait to get invited, let people know you're available.
+
 **Note** In the case of MP(Multi Party) related content such as UQ's(Urgent Quests), the parties are organized as Party A through Z. E.G. MPA will have Party ABC, MPB will have DEF. The main host(In Party A) will be responsible for clearly deciding on who are leads for BCDEF.
 ---
 
