@@ -24,7 +24,7 @@ You, the host, can cancel the party by clicking on the :negative_squared_cross_m
 
 4. If you would like to stop getting notifications, head back to <#729561764940742700> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
 
-Recruitment Etiquette
+**Recruitment Etiquette**
 
 -Discord is NOT a requirement to form MPA or other parties, its merely the choice of the host and their leads.
 
