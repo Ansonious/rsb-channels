@@ -71,10 +71,6 @@ There are two primary ways that you can do that:
 
 ---
 
-
-
----
-
 :bangbang: **Consider this section now undergoing remodeling** :bangbang: 
 
 This channel is currently receiving heavy maintenance. It will be updated sporadically, and we recommend that you don't mute the channel so that you know when it's updated.
