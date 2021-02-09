@@ -66,7 +66,7 @@ There are two primary ways that you can do that:
 
 1.) Give them the permanent invite link yourself: https://discord.gg/ePSZqA4
 
-2.) Generate your own (temporary) link by hovering your mouse over <#729561764940742697> and clicking on the little box
+2.) Generate your own (temporary) link by right clicking on the server icon and choosing invite people.
 
 
 ---
