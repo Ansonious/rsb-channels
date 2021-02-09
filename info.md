@@ -55,26 +55,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 
 :bangbang: **Roles:** :bangbang: 
 
-`Moderator / Server Staff`: The Moderators and administrative staff of the server.
-
-`Community Manager`: In charge of Public Relations.
-
-`Mentor`: Guides who can help with general game-related and class related questions. They're also responsible for vouching people towards higher tier runs.
-Read more and apply here:
-https://docs.google.com/document/d/1YogBaWyzetrCqvhacz8CoTaIvnK5BTPAmaPUyiztqjM/edit?usp=sharing
-
-`Clan & Ranks`: PM any of our moderators to claim your Clan/rank.
-Register and Apply your clan here:
-https://docs.google.com/forms/d/e/1FAIpQLSdsUXufv-xh7TFiZ-bJuykyG8g5fRthPRNdt8upY1Pkb69Yjw/viewform
-
-`Nerd` : For people who meet our requirements in <#729561764940742701>
-Register and Apply here:
-https://docs.google.com/forms/d/e/1FAIpQLSetlyt7lhaQZKT87px5eDAkZjOhswmziAiu-cqSCv3IGCHtMg/viewform
-Requirements for Nerd are 2 Vouches. 1 for Affixes and 1 for Skill from Mentors.
-
-Some of the roles are there for notification purposes only. For example: `@Patch`
-
-You can join and leave some of those roles at any time by adding reactions in <#729561764940742700>, which will toggle the role.
+Head on over to <#729561764940742700> and choose which roles you want so you can be pinged for specific quests in <#742493068652970104>
 
 
 ---
@@ -90,9 +71,7 @@ There are two primary ways that you can do that:
 
 ---
 
-:exclamation:  **Do you want to add your clan to the channels <#741181619448184904> & <#742493068652970104>?** :exclamation:
 
- Currently the only way to add your clan to <@742438281559408690> is by messaging <@83897755826683904> The channel ID for General and Recruitment chat. You can find the ID by right clicking the specified channel and selecting **"Copy ID"**
 
 ---
 
