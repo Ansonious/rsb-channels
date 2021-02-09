@@ -7,66 +7,42 @@
 			"color": "#ff0099",
 			"roles": [
 				{
-					"comment": "VHAQ",
-					"id": "732466815350997042",
-					"emoji": "1⃣",
-					"desc": "Very Hard Advanced Quest"
-				},
-				{
-					"comment": "SHAQ",
-					"id": "732466766340423732",
-					"emoji": "2⃣",
-					"desc": "Super Hard Advanced Quest"
-				},
-				{
-					"comment": "Ultimate",
-					"id": "732466717766189156",
-					"emoji": "3⃣",
-					"desc": "Ultimate Quest"
-				},
-				{
 					"comment": "Urgent",
 					"id": "732466862490910841",
-					"emoji": "4⃣",
-					"desc": "Urgent Quest"
+					"emoji": "1⃣",
+					"desc": "Urgent"
 				},
-		   		{
+				{
 					"comment": "Trigger",
 					"id": "734808854411477066",
-					"emoji": "5️⃣",
-					"desc": "Trigger Quest"
+					"emoji": "2⃣",
+					"desc": "Trigger"
 				},
-		                {
-					"comment":  "PVP",
-					"id": "738974260659486732",
-					"emoji": "6️⃣",
-					"desc": "PVP"
-					
-				},
-		                {
+				{
 					"comment": "CQ",
 					"id": "738972939273240598",
-					"emoji": "7️⃣",
+					"emoji": "3⃣",
 					"desc": "Challenge Quest"
 				},
 				{
-					"comment": "TA",
-					"id": "742793627629125712",
-					"emoji": "8️⃣",
-					"desc": "Time Attack"
+					"comment": "Crack Farm",
+					"id": "808782017155563530",
+					"emoji": "4⃣",
+					"desc": "Crack Farm (Battleship Infiltration, Risk Explorations, Piper and etc.)"
 				},
-				{
-					"comment": "LQ",
-					"id": "756399142757990470",
-					"emoji": "9️⃣",
-					"desc": "Limited Quest"
+		   		{
+					"comment": "Xtremes",
+					"id": "808782022725992488",
+					"emoji": "5️⃣",
+					"desc": "Extreme Quests"
 				},
-				{ 
-					"comment": "Buster",
-					"id": "762108686214234122",
-					"emoji": "🔟",
-					"desc": "Buster Quest"
-				}
+		                {
+					"comment":  "Divide",
+					"id": "808782028505350144",
+					"emoji": "6️⃣",
+					"desc": "Divide Quests (Module farming, medals, emel fragments and etc.)"
+					
+				} 
 			]
 		},
 			{
@@ -144,26 +120,17 @@
 					"id": "730643966776573972",
 					"emoji": "<:Techter:730634012267380777>",
 					"desc": ""
-				}
-			]
-		},
-				{
-				"title": "**Miscellaneous**",
-			"color": "#2cc419",
-			"roles": [
-				{
-						"comment": "Patch",
-					"id": "735014594736685097",
-					"emoji": "🇵",
-					"desc": "Patch notes, for notifications"
 				},
 				{
-						"comment": "Movie Night",
-					"id": "729561764311859209",
-					"emoji": "🍿",
-					"desc": "Get notifications for movies"
+					"comment": "Luster",
+					"id": "808780736899448872",
+					"emoji": "<:Luster:808780736899448872>",
+					"desc": ""
 				}
 			]
 		}
 	]
 }
+	
+		 
+				
