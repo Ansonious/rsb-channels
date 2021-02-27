@@ -9,37 +9,37 @@
 				{
 					"comment": "Urgent",
 					"id": "732466862490910841",
-					"emoji": ":one:",
+					"emoji": ":1️⃣",
 					"desc": "Urgent"
 				},
 				{
 					"comment": "Trigger",
 					"id": "734808854411477066",
-					"emoji": ":two:",
+					"emoji": "2️⃣",
 					"desc": "Trigger"
 				},
 				{
 					"comment": "CQ",
 					"id": "738972939273240598",
-					"emoji": ":three:",
+					"emoji": "3️⃣",
 					"desc": "Challenge Quest"
 				},
 				{
 					"comment": "Crack Farm",
 					"id": "808782017155563530",
-					"emoji": ":four:",
+					"emoji": "4️⃣",
 					"desc": "Crack Farm (Battleship Infiltration, Risk Explorations, Piper and etc.)"
 				},
 		   		{
 					"comment": "Xtremes",
 					"id": "808782022725992488",
-					"emoji": ":five:",
+					"emoji": "5️⃣",
 					"desc": "Extreme Quests"
 				},
 		                {
 					"comment":  "Divide",
 					"id": "808782028505350144",
-					"emoji": ":six:",
+					"emoji": "6️⃣",
 					"desc": "Divide Quests (Module farming, medals, emel fragments and etc.)"
 					
 				} 
