@@ -13,7 +13,7 @@ Gimmie some Banner art
 
 ---
 
-![Weplocation](https://i.gyazo.com/68c01ff1d8f57be0d310d2b6fbc9db62.png)
+![Weplocation](https://i.imgur.com/J6Auq9G.png)
 
 ---
 
@@ -23,4 +23,6 @@ Gimmie some Banner art
 
 ---
 
-![Vetlocation](https://cdn.discordapp.com/attachments/465059517550428173/854326725441486858/unknown.png)
+![Vetlocation](https://i.imgur.com/tikoPcf.png)
+
+---
