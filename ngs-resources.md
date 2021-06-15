@@ -40,6 +40,56 @@ Rod
 
 ---
 
+STAT AUGMENTS
+
+Stamina (HP+5/10/15) [EXPLORATION REGIONS]
+Spirit (PP+3/4/5) [EXPLORATION REGIONS]
+Might (Melee Weapon Potency +1.0/1.5/2.0%) [EXPLORATION REGIONS]
+Precision (Ranged Weapon Potency +1.0/1.5/2.0%) [EXPLORATION REGIONS]
+Technique (Technique Weapon Potency +1.0/1.5/2.0%) [EXPLORATION REGIONS]
+Deftness (Potency Floor Increase +1.0/1.5/2.0%) [EXPLORATION REGIONS]
+Guard (Damage Resistance +1.0/1.5/2.0%) [EXPLORATION REGIONS]
+
+WARD AUGMENTS
+
+Blind Ward (Blind Resistance, 20/25/30%) [SOUTH AELIO / ANY ENEMY]
+Burn Ward (Burn Resistance, 20/25/30%) [SOUTH AELIO / ANY ENEMY]
+Freeze Ward (Freeze Resistance, 20/25/30%) [CENTRAL AELIO / ANY ENEMY]
+Pain Ward (Physical Down Resistance, 20/25/30%) [WEST AELIO / ANY ENEMY]
+Panic Ward (Panic Resistance, 20/25/30%) [NORTH AELIO / ANY ENEMY]
+Poison Ward (Poison Resistance, 20/25/30%) [NORTH AELIO / ANY ENEMY]
+Shock Ward (Shock Resistance, 20/25/30%) [CENTRAL AELIO / ANY ENEMY]
+---
+NOTE AUGMENTS
+
+Ael Note A (HP+5, PP+3) [CENTRAL AELIO / ANY ENEMY]
+Ael Note B (Melee/Ranged Weapon Potency +1.0%) [WEST AELIO / ANY ENEMY]
+Ael Note C (Melee/Technique Weapon Potency +1.0%) [SOUTH AELIO / ANY ENEMY]
+Ael Note D (Ranged/Technique Weapon Potency +1.0%) [NORTH AELIO / ANY ENEMY]
+Lab Note (Ranged Weapon Potency +1.5%) [VANFORD RUINS]
+Magnus Note (Melee Weapon Potency +1.5%) [MT. MAGNUS]
+Resola Note (Technique Weapon Potency +1.5%) [RESOL FOREST]
+
+SOUL AUGMENTS
+
+Alts Soul (HP+5/10, Damage Resistance +2.0% - Alts Soul II) [ALTER ENEMIES]
+Dolz Soul (PP+5, Potency Floor Increase +1.0/2.0%) [ANY DOLZ UNIT]
+Forms Soul (Melee Weapon Potency +2.0%, Damage Resistance +2.0% - Forms Soul II) [FORMER CLASS ENEMIES]
+Daityl Soul (PP+5, Melee Weapon Potency +1.0/2.0%) [PSE BURST (VANFORD/RESOL) / DAITYL VETERAN]
+Nex Soul (PP+5, Technique Weapon Potency +1.0/2.0%) [NEX VERA UQ / PSE BURST (RESOL FOREST)]
+Pettas Soul (PP+5, Ranged Weapon Potency +1.0/2.0%) [PETTAS VERA UQ / LVL 15 PETTAX ENEMIES]
+
+OTHER AUGMENTS
+
+Alts Secreta (HP-10, Potency +1.0/1.5%, Potency Floor Increase +1.0/1.5%, Damage Resistance -/1.5%) [ALTER ENEMIES]
+Dread Keeper (HP+10/15, PP+3/4, Potency Floor Increase +1.0/1.5%, Damage Resistance -1.0%) [VETERAN ENEMIES]
+Ael Domina (HP+5, PP+3, Potency +1.5%) [CRAFTED AT ITEM LAB]
+Mastery (Potency +0.5/1.0/1.5%, Potency Floor Increase +0.5/1.0/1.5%, Damage Resistance +0.5/1.0/1.5%) [CRAFTED AT ITEM LAB]
+Sovereign Ward (All Down Resistance 20/25/30%) [CRAFTED AT ITEM LAB]
+*credits to u/Mindshattered
+---
+
+
 ![Vetlocation](https://i.imgur.com/tikoPcf.png)
 
 ---
