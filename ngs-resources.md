@@ -30,17 +30,17 @@ Freeze Ward, Shock Ward, Ael Note A
 **__Craft__**
 Ael Domina, Mastery, Sovereign Ward
 **__Other__**
-Lab Note  [VANFORD RUINS]
-Magnus Note  [MT. MAGNUS]
-Resola Note  [RESOL FOREST]
-Alts Soul  [ALTER ENEMIES]
-Dolz Soul  [ANY DOLZ UNIT]
-Forms Soul  [FORMER CLASS ENEMIES]
-Daityl Soul ( [PSE BURST (VANFORD/RESOL) / DAITYL VETERAN]
-Nex Soul  [NEX VERA UQ / PSE BURST (RESOL FOREST)]
-Pettas Soul  [PETTAS VERA UQ / LVL 15 PETTAX ENEMIES]
-Alts Secreta ( [ALTER ENEMIES]
-Dread Keeper  [VETERAN ENEMIES]
+Lab Note **[VANFORD RUINS]**
+Magnus Note **[MT. MAGNUS]**
+Resola Note **[RESOL FOREST]**
+Alts Soul **[ALTER ENEMIES]**
+Dolz Soul **[ANY DOLZ UNIT]**
+Forms Soul **[FORMER CLASS ENEMIES]**
+Daityl Soul [**PSE BURST (VANFORD/RESOL) / DAITYL VETERAN]**
+Nex Soul **[NEX VERA UQ / PSE BURST (RESOL FOREST)]**
+Pettas Soul **[PETTAS VERA UQ / LVL 15 PETTAX ENEMIES]**
+Alts Secreta **[ALTER ENEMIES]**
+Dread Keeper **[VETERAN ENEMIES]**
 
 ---
 
