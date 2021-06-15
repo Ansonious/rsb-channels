@@ -12,6 +12,7 @@ Gimmie some Banner art
 :white_small_square: **[Interactive Map](https://ngs-map.kosnag.ru/?lang=en_gl)**
 
 :white_small_square: **[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
+:white_small_square: **[Fix for microstuttering caused by the forced vsync of the new engine](https://www.reddit.com/r/PSO2NGS/comments/nwmidl/fix_for_microstuttering_caused_by_the_forced/)**
 
 ---
 **Augment Locations**
