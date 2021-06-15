@@ -36,7 +36,7 @@ Twin Daggers
 Assault Rifle
 Rod
 
-*I don't think we need this since the document lists where the weapons are found*
+*I don't think we need this since the document lists where the weapons are found but if easier just to search here then sure*
 
 ---
 
