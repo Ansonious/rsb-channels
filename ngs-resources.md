@@ -1,6 +1,7 @@
 Test
 
 :white_small_square: **[Augments] (https://www.reddit.com/r/PSO2/comments/nzs2d8/where_to_find_certain_augments_in_pso2ngs/)** Augments
+:white_small_square: **[Augments](https://www.reddit.com/r/PSO2/comments/nzs2d8/where_to_find_certain_augments_in_pso2ngs/)** Augments
 
 :white_small_square: **[Information on all weapons in game] (https://docs.google.com/spreadsheets/d/1auX9B_aRJv2YhpE3czqmmZQaaVO1a2R29YqwGowGQJI/edit#gid=0)** Weps
 
