@@ -87,3 +87,5 @@ Ael Domina (HP+5, PP+3, Potency +1.5%) **[CRAFTED AT ITEM LAB]**
 Mastery (Potency +0.5/1.0/1.5%, Potency Floor Increase +0.5/1.0/1.5%, Damage Resistance +0.5/1.0/1.5%) **[CRAFTED AT ITEM LAB]**
 Sovereign Ward (All Down Resistance 20/25/30%) **[CRAFTED AT ITEM LAB]**
 *credits to u/Mindshattered
+---
+![Vetlocation](https://i.imgur.com/tikoPcf.png)
