@@ -18,7 +18,6 @@ Gimmie some Banner art
 
 **__Exploration__**
 Stamina, Spirit, Might, Precision, Technique, Deftness, Guard
-**
 **__North Aelio__**
 Panic Ward, Poison Ward, Ael Note D
 **__South Aelio__**
