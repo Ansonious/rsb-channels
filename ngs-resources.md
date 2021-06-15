@@ -9,6 +9,11 @@ Gimmie some Banner art
 :white_small_square: **[Weapons](https://docs.google.com/spreadsheets/d/1auX9B_aRJv2YhpE3czqmmZQaaVO1a2R29YqwGowGQJI/edit#gid=0)**
      ^ **[choosing between 3* and 4*](https://www.reddit.com/r/PSO2NGS/comments/o06i1n/gather_round_boys_and_girls_i_have_a_secret_to/)** 
 
+
+:white_small_square: **[Interactive Map](https://ngs-map.kosnag.ru/?lang=en_gl)**
+
+:white_small_square: **[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
+
 ---
 
 
@@ -32,11 +37,6 @@ Assault Rifle
 Rod
 
 *I don't think we need this since the document lists where the weapons are found*
----
-
-:white_small_square: **[Interactive Map](https://ngs-map.kosnag.ru/?lang=en_gl)**
-
-:white_small_square: **[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
 
 ---
 
