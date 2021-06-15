@@ -11,10 +11,16 @@ Gimmie some Banner art
 
 :white_small_square: **[4* Weapon Locations](https://gyazo.com/68c01ff1d8f57be0d310d2b6fbc9db62)**
 
+---
+
 ![Weplocation](https://i.gyazo.com/68c01ff1d8f57be0d310d2b6fbc9db62.png)
+
+---
 
 :white_small_square: **[Interactive Map](https://ngs-map.kosnag.ru/?lang=en_gl)**
 
 :white_small_square: **[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
+
+---
 
 ![Vetlocation](https://cdn.discordapp.com/attachments/465059517550428173/854326725441486858/unknown.png)
