@@ -50,23 +50,15 @@ Ael Domina, Mastery, Sovereign Ward
 ---
 
 **4* Wep Locations**
+
 **__Mt.Magnus 2__**
-Sword
-Knuckle
-TMG
-Wand
+Sword, Knuckles, TMG, Wand
  
 **__Vanford Laboratory Ruins 2__**
-Partisan
-Double Saber
-Launcher
-Talis
+Partisan, Double Saber, Launcher, Talis
 
 **__Resol Forest__**
-Wired Lance
-Twin Daggers
-Assault Rifle
-Rod
+Wired Lance, Twin Daggers, Assault Rifle, Rod
 
 ---
 
