@@ -18,6 +18,7 @@ Gimmie some Banner art
 
 **__Exploration__**
 Stamina, Spirit, Might, Precision, Technique, Deftness, Guard
+
 **__North Aelio__**
 Panic Ward, Poison Ward, Ael Note D
 
@@ -34,7 +35,17 @@ Freeze Ward, Shock Ward, Ael Note A
 Ael Domina, Mastery, Sovereign Ward
 
 **__Other__**
-Lab Note **[VANFORD RUINS]**, Magnus Note **[MT. MAGNUS]**, Resola Note **[RESOL FOREST]**, Alts Soul **[ALTER ENEMIES]**, Dolz Soul **[ANY DOLZ UNIT]**, Forms Soul **[FORMER CLASS ENEMIES]**, Daityl Soul [**PSE BURST (VANFORD/RESOL) / DAITYL VETERAN]**, Nex Soul **[NEX VERA UQ / PSE BURST (RESOL FOREST)]**, Pettas Soul **[PETTAS VERA UQ / LVL 15 PETTAX ENEMIES]**, Alts Secreta **[ALTER ENEMIES]**, Dread Keeper **[VETERAN ENEMIES]**
+**[VANFORD RUINS]:** Lab Note
+**[MT. MAGNUS]:** Magnus Note
+**[RESOL FOREST]:** Resola Note
+**[ALTER ENEMIES]:** Alts Soul 
+**[ANY DOLZ UNIT]:** Dolz Soul 
+**[FORMER CLASS ENEMIES]** Forms Soul 
+**PSE BURST (VANFORD/RESOL) / DAITYL VETERAN]:** Daityl Soul 
+**[NEX VERA UQ / PSE BURST (RESOL FOREST)]:** Nex Soul 
+**[PETTAS VERA UQ / LVL 15 PETTAX ENEMIES]:** Pettas Soul 
+**[ALTER ENEMIES]:** Alts Secreta 
+**[VETERAN ENEMIES]:** Dread Keeper 
 
 ---
 
