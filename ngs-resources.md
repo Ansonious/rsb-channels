@@ -7,7 +7,7 @@ Gimmie some Banner art
 :white_small_square: **[Fix for microstuttering caused by the forced vsync of the new engine](https://www.reddit.com/r/PSO2NGS/comments/nwmidl/fix_for_microstuttering_caused_by_the_forced/)**
 
 ---
-**[Augment Locations](https://www.reddit.com/r/PSO2/comments/nzs2d8/where_to_find_certain_augments_in_pso2ngs/)**
+**[Augment Locations and more info](https://www.reddit.com/r/PSO2/comments/nzs2d8/where_to_find_certain_augments_in_pso2ngs/)**
 
 **__Exploration__**
 Stamina, Spirit, Might, Precision, Technique, Deftness, Guard
@@ -42,7 +42,7 @@ Ael Domina, Mastery, Sovereign Ward
 
 ---
 
-**[4*Weapon Locations and more](https://docs.google.com/spreadsheets/d/1auX9B_aRJv2YhpE3czqmmZQaaVO1a2R29YqwGowGQJI/edit#gid=0)**
+**[4*Weapon Locations and more info](https://docs.google.com/spreadsheets/d/1auX9B_aRJv2YhpE3czqmmZQaaVO1a2R29YqwGowGQJI/edit#gid=0)**
      ^ **[choosing between 3* and 4*](https://www.reddit.com/r/PSO2NGS/comments/o06i1n/gather_round_boys_and_girls_i_have_a_secret_to/)** 
 
 **__Mt.Magnus 2__**
