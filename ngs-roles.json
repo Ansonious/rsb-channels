@@ -1,0 +1,27 @@
+{
+	"messages": [
+		{
+				"title": "Click on the corresponding reaction to add or remove a role.
+			
+			**__Recruitment__**",
+			"color": "#ff0099",
+			"roles": [
+				{
+					"comment": "NGSUQ",
+					"id": "854989543751811072",
+					"emoji": "<:NGSUQ:854992481107836939>",
+					"desc": "NGS Urgent"
+				},
+				{
+					"comment": "VetFarm",
+					"id": "854989628783853578",
+					"emoji": "<:PensiveTrash:854999269832785941>",
+					"desc": "Veteran Farm"
+				}
+			]
+		},
+	
+			]
+		}
+	]
+}
