@@ -55,7 +55,13 @@ Partisan, Double Saber, Launcher, Talis
 Wired Lance, Twin Daggers, Assault Rifle, Rod
 
 ---
+
 **[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
+
+---
+
 ![Vetlocation](https://i.imgur.com/tikoPcf.png)
+
+---
 
 Scroll up for more info
