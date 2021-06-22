@@ -4,7 +4,7 @@
 
 Open and edit the .md file for the channel you want to edit
 
-The file gets split into seperate messages by the `---`  
+The file gets split into separate messages by the `---`  
 Each section gets trimmed of any blank rows in the beginning and end of the section (message).  
 Sections starting with `![` will be treated as an image only message (first image will be used, rest of section discarded).  
 
