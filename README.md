@@ -1,4 +1,4 @@
-# rsb-channels
+#channels
 
 ## Editing text channels
 
