@@ -56,7 +56,8 @@ Wired Lance, Twin Daggers, Assault Rifle, Rod
 
 ---
 
-**[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
+:white_small_square: **[Gigantix Storm Tracker](https://calendar.google.com/calendar/u/0?cid=YzEzdDAzbjlja3M1cWRocjM1OGtrdHByM3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**
+:white_small_square: **[Veteran Locations](https://gyazo.com/96ea88b86d59da1328b7fd0796498a4a)**
 
 ---
 
